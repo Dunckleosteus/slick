@@ -14,4 +14,4 @@ We tried various indices to see if any of them showed any promise in detecting t
 ## NDVI 
 ![NDVI](/images/ndvi_images.png "NDVI").
 ## SAVI
-![SAVI](/images/savi_images.png).
+![SAVI](/images/savi.png).

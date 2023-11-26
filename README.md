@@ -11,6 +11,9 @@ As an academic project this project has 2 main objectives:
 2. Compare the evolution of oil spread over the time
 # Data analysis
 We tried various indices to see if any of them showed any promise in detecting the oil spill.
+## RGB Images
+Here are the RGB composition for the satellite pictures, the oil stain is visible in the right of the pictures taken after the accident. We can see that the stain seems to grow over time in visible light. 
+![SAVI](/images/rgb_images.png).
 ## NDVI 
 ![NDVI](/images/ndvi_images.png "NDVI").
 ## SAVI

@@ -12,4 +12,6 @@ As an academic project this project has 2 main objectives:
 # Data analysis
 We tried various indices to see if any of them showed any promise in detecting the oil spill.
 ## NDVI 
-![alt text for screen readers](/images/ndvi_images.png "Text to show on mouseover").
+![NDVI](/images/ndvi_images.png "NDVI").
+## SAVI
+![SAVI](/images/savi_images.png).

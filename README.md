@@ -14,6 +14,11 @@ We tried various indices to see if any of them showed any promise in detecting t
 ## RGB Images
 Here are the RGB composition for the satellite pictures, the oil stain is visible in the right of the pictures taken after the accident. We can see that the stain seems to grow over time in visible light. 
 ![SAVI](/images/rgb_images.png).
+## Ferrous Minerals
+![SAVI](/images/ferrous_mineral_images.png).
+Does not seem to show much promise when it comes to detecting hydrocarbons. 
+## VARI
+![SAVI](/images/vari_images.png).
 ## NDVI 
 ![NDVI](/images/ndvi_images.png "NDVI").
 ## SAVI

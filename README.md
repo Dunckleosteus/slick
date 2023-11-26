@@ -18,3 +18,13 @@ Here are the RGB composition for the satellite pictures, the oil stain is visibl
 ![NDVI](/images/ndvi_images.png "NDVI").
 ## SAVI
 ![SAVI](/images/savi.png).
+## MNDWI 
+![SAVI](/images/mndwi_images.png).
+This composition seems to show promise when it comes to detecting the oil. That is why we did some stats on it: 
+#### Stats
+##### Scatter
+![SAVI](/images/mndwi_scatter.png).
+##### Correlation
+![SAVI](/images/mndwi_correlation_heatmap.png).
+##### Supervise classification 
+TODO

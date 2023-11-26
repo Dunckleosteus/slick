@@ -38,7 +38,8 @@ I started by dividing the image into 2 classes:
 ![SAVI](/images/mndwi_manual_classification.png).
 We can also count the number of each class for each image:
 ![SAVI](/images/mndwi_barplot.png).
-![SAVI](/images/mndwi_correlation_heatmap.png).
+Because we know that image 1 has no leak (normally), we can substract it's number of pixels over the threashold to have a better estimate of oil quantity. This is more or less the same as removing the number of pixels that represent a landmass as they also have a value over 0.75. 
+We can see that the value seems to increase, wich seems normal.
 # Unsupervised classification 
 Tried a unsupervised classification
 ![SAVI](/images/unsupervised_classification.png).

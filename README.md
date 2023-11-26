@@ -31,5 +31,14 @@ This composition seems to show promise when it comes to detecting the oil. That 
 ![SAVI](/images/mndwi_scatter.png).
 ##### Correlation
 ![SAVI](/images/mndwi_correlation_heatmap.png).
-##### Supervise classification 
-TODO
+##### Manual classification
+I started by dividing the image into 2 classes: 
+- Values over 0.75 that are either a landmass or oil infused water
+- Values under 0.75 that are probably clean sea water
+![SAVI](/images/mndwi_manual_classification.png).
+We can also count the number of each class for each image:
+![SAVI](/images/mndwi_barplot.png).
+![SAVI](/images/mndwi_correlation_heatmap.png).
+# Unsupervised classification 
+Tried a unsupervised classification
+![SAVI](/images/unsupervised_classification.png).
